@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: brown;
+}
+#p1 {
+    text-align: center;
+}
+body {
+                
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+}
+
+#shape {
+    
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+    
+}
+
+.bold {
+    
+    font-weight: bold;
+    
+}
